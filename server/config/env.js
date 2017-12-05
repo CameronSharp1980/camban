@@ -3,7 +3,7 @@ let env = {
 	NODE_ENV: 'development',
 	PORT: 3000,
 	DBPROTOCOL: 'mongodb',
-	DBUSERNAME: 'nesterx',
+	DBUSERNAME: 'camban',
 	DBPASSWORD: 'startgo',
 	DBHOST: 'ds044667.mlab.com:44667',
 	DBNAME: 'camban',
